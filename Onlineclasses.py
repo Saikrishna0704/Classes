@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 def main():
-    st.sidebar.image("https://play-lh.googleusercontent.com/r1CHZYUHjyTu2iwFhsYb1q5DLD2zmA1nQJssbSNKYAtvJOlEG_-kO4VTjyraLIIs8g", use_column_width=True)
+    st.image("https://play-lh.googleusercontent.com/r1CHZYUHjyTu2iwFhsYb1q5DLD2zmA1nQJssbSNKYAtvJOlEG_-kO4VTjyraLIIs8g", use_column_width=True)
     st.sidebar.write("Online Classes")
     st.title("Magnet Brains")
     name = st.text_input("Enter your name:")
