@@ -11,7 +11,7 @@ def main():
           with st.spinner("Loading..."):
             time.sleep(2)
             st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4F9lch1Lq12oVIdwdV6gDZBlph-maWw6kFK7mZvffI06GBuMVxQE9faROTw&s")
-            st.markdown("<h1 style='text-align: center; color: blue;'>Large Text</h1>", unsafe_allow_html=True)
+            st.markdown("<h1 style='text-align: center; color: blue;'>Eddie Kareakka C batch bugga</h1>", unsafe_allow_html=True)
             st.write("Eddie Kareakka C batch bugga")
 if __name__ == "__main__":
     main()
